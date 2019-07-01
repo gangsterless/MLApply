@@ -51,3 +51,4 @@ if __name__=='__main__':
         if value!=y_cv[index]:
             print(str(index)+"  "+str(value))
     print('准确率为：',np.mean(y_cv==res))
+    
