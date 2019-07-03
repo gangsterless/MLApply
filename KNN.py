@@ -2,7 +2,6 @@ import numpy as np
 import os
 import sys
 import operator
-import matplotlib
 import matplotlib.pyplot as plt
 path =  sys.path[0]+"\data"
 '''
